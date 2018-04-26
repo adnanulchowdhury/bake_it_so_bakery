@@ -1,34 +1,61 @@
-#logo{
-    width: 70px;
-    height: 70px;
+nav{
+    height: 100px;
 }
-
+#logo{
+    width: 100px;
+    height: 100px;
+}
+/* ---------------cake section------------- */
 #cake1{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cake2{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cake3{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
-
+#cake4{
+    width: 600px;
+    height: 500px;
+}
+#cake5{
+    width: 600px;
+    height: 500px;
+}
+#cake6{
+    width: 600px;
+    height: 500px;
+}
+/* -------------cake pop section--------- */
 #cakepop1{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cakepop2{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cakepop3{
+    width: 600px;
+    height: 500px;
+}
+#cakepop4{
     width: 500px;
     height: 400px;
 }
-
+#cakepop5{
+    width: 500px;
+    height: 400px;
+}
+#cakepop6{
+    width: 500px;
+    height: 400px;
+}
+/* --------------Cookies section--------- */
 #cookie1{
     width: 500px;
     height: 400px;
@@ -38,6 +65,18 @@
     height: 400px;
 }
 #cookie3{
+    width: 500px;
+    height: 400px;
+}
+#cookie4{
+    width: 500px;
+    height: 400px;
+}
+#cookie5{
+    width: 500px;
+    height: 400px;
+}
+#cookie6{
     width: 500px;
     height: 400px;
 }
