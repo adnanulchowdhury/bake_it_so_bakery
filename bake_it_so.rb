@@ -7,6 +7,18 @@ get "/" do
     erb :index
 end
 
+get "/cakes" do
+    erb :cakes
+end
+
+get "/cake_pops" do
+    erb :cake_pops
+end
+
+get "/cookies" do
+    erb :cookies
+end
+
 get "/contact_form" do
     erb :contact_form
 end
