@@ -2,9 +2,18 @@ nav{
     height: 100px;
 }
 #logo{
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
 }
+
+.brand-logo.center{
+    margin-top: 30px;
+}
+
+a{
+    margin-top: 30px;
+}
+
 /* ---------------cake section------------- */
 #cake1{
     width: 600px;
