@@ -44,39 +44,43 @@ nav{
     height: 500px;
 }
 #cakepop4{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cakepop5{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cakepop6{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 /* --------------Cookies section--------- */
 #cookie1{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cookie2{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cookie3{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cookie4{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cookie5{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 #cookie6{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
+}
+
+#welcome_message{
+    text-align: center;
 }
