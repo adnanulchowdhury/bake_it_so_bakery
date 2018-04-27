@@ -19,8 +19,8 @@ get "/cookies" do
     erb :cookies
 end
 
-get "/contact_form" do
-    erb :contact_form
+get "/" do
+    erb :index
 end
 
 post "/" do
@@ -36,7 +36,7 @@ post "/" do
     # puts response.body
     # puts response.parsed_body
     # puts response.headers
-    redirect "/contact_form"
+    redirect "/"
 end
 
 get "/thank_you" do
