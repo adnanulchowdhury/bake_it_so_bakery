@@ -80,7 +80,21 @@ nav{
     width: 600px;
     height: 500px;
 }
+/* --------------front page section--------- */
 
 #welcome_message{
     text-align: center;
+}
+
+#frontpage1{
+    width: 600px;
+    height: 400px;
+}
+#frontpage2{
+    width: 600px;
+    height: 400px;
+}
+#frontpage3{
+    width: 600px;
+    height: 400px;
 }
